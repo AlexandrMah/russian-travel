@@ -9,3 +9,21 @@
   grid-column: 1/span 4;
   z-index: 1;
 }
+
+@media screen and (max-width: 530px){
+  .cover__title{
+    margin: 0 auto 16px;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__title{
+    margin: 0 auto 16px;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
