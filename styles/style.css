@@ -1,36 +1,3 @@
-.footer{
-  max-width: 100%;  
-  margin: 92px 48px 24px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.footer__links{
-  display: flex;
-  gap: 18px;
-}
-
-.footer__link{
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 18px;
-  color: #FFFFFF;
-  text-decoration: none;
-  transition: opacity 2s;
-}
-
-.footer__link:hover{
-  opacity: 0.8;
-}
-
-.footer__copyright{
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 18px;
-  margin: 0;
-}
-
 @media screen and (max-width: 1024px) {
   .intro{
     margin: 92px 0 92px 48px;
