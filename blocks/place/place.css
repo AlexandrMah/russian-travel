@@ -1,0 +1,8 @@
+.place{
+  display: grid;  
+  grid-template-columns: fit-content(460px) fit-content(484px);  
+  grid-auto-rows: minmax(min-content, max-content);
+  justify-content: center;
+  justify-self: center;
+  gap: 48px 40px;
+}
