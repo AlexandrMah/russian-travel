@@ -8,4 +8,4 @@
 * применение Grid Layout;
 * создание адаптивной верски.
 
-## Ссылка на GitHub Pages: 
+## Ссылка на GitHub Pages: https://alexandrmah.github.io/russian-travel/
