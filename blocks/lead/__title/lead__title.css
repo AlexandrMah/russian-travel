@@ -7,21 +7,14 @@
   line-height: 100px;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 680px){
   .lead__title{
-    font-size: calc(40px + 56 * (100vw / 1300));
+    font-size: 65px;
     line-height: 110%;
   }
 }
 
-@media screen and (max-width: 405px){
-  .lead__title{
-    font-size: 40px;
-    line-height: 44px;
-  }
-}
-
-@media screen and (max-width: 320px){
+@media screen and (max-width: 460px){
   .lead__title{
     font-size: 40px;
     line-height: 44px;

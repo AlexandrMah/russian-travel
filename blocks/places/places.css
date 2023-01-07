@@ -17,10 +17,11 @@
   .places{
     max-width: calc(100% - 24px * 2);
     margin: 88px 24px 90px;
+    gap: 73px;
   }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 480px){
   .places{
     max-width: 100%;
     margin: 64px 0px 66px;
