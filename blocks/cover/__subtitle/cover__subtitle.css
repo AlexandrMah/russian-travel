@@ -5,9 +5,8 @@
   font-size: 18px;
   line-height: 22px;
   text-align: center;
-  grid-row: 5/span 1;
-  grid-column: 1/span 4;
   align-content: end;
+  opacity: 1;
   z-index: 1;
 }
 

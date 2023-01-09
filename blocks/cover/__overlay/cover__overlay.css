@@ -1,14 +1,10 @@
 .cover__overlay{
-  display: grid;
-  grid-auto-columns: minmax(min-content, max-content);
-  grid-auto-rows: minmax(min-content, max-content);
+  display: flex;
+  aspect-ratio: 8/5;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
-  opacity: 0.8;
-  transition: opacity 2s;
   color: #fff;
   text-decoration: none;
+  position: relative;
 }
-
-/*.cover__overlay:hover{
-  opacity: 0.3;
-}*/
