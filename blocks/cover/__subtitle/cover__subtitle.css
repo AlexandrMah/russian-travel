@@ -11,10 +11,13 @@
   z-index: 1;
 }
 
+.cover__subtitle:hover ~ .cover__background{
+  opacity: 0.3;
+}
+
 @media screen and (max-width: 530px){
   .cover__subtitle{
     max-width: 288px;
-    font-weight: 400;
     font-size: 14px;
     line-height: 16px;
   }

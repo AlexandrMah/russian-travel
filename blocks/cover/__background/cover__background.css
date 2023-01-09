@@ -4,5 +4,9 @@
   grid-row: 1/span 7;
   grid-column: 1/span 4;
   opacity: 0.8;
-  transition: opacity 2s;
+  transition: opacity 1s;
+}
+
+.cover__background:hover{
+  opacity: 0.3;
 }
